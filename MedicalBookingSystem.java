@@ -30,6 +30,7 @@ public class MedicalBookingSystem {
         int choice;
 
         System.out.println("🏥 Welcome to Medical Booking System");
+        System.out.println("My project for devops");
 
         do {
             System.out.println("\n1. Book Appointment");
